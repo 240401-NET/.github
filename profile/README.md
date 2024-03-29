@@ -7,6 +7,6 @@ Welcome to 240401 .NET training! Here you'll find useful information for this tr
 - [Revature Pro("RevPro")](https://app.revature.com): Find Recordings, Curriculum, Quizzes and other assessments here
 - *Coming Soon* [TimeSheet](): Please fill them out every Friday
 - [HR Portal](https://help.revature.com/s/): Submit HR ticket via this portal 
-- [Email Juniper](mailto:minseon.song@revature.com)
-- [Email QC](mailto:qc@revature.com)
-- [Email IT](mailto:it@revature.com)
+- [Email Juniper](mailto:minseon.song@revature.com) minseon.song@revature.com: For any absences, training content related questions
+- [Email QC](mailto:qc@revature.com) qc@revature.com: For any assessment related queries. *feel free to cc me*
+- [Email IT](mailto:it@revature.com) it@revature.com: For any access issues *feel free to cc me*
