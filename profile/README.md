@@ -2,7 +2,7 @@
 Welcome to 240401 .NET training! Here you'll find useful information for this training.
 
 ## Useful Links
-- [Trainer Code](https://github.com/240401-NET/trainer-code): Github repository for all demo's/notes, as well as project specs
+- [Trainer Code](https://github.com/240401-NET/trainer-code){:target="_blank"}: Github repository for all demo's/notes, as well as project specs
 - *Coming Soon* [Teams Meeting Link](): We meet here every workday 10a-6p ET
 - [Revature Pro("RevPro")](https://app.revature.com): Find Recordings, Curriculum, Quizzes and other assessments here
 - *Coming Soon* [TimeSheet](): Please fill them out every Friday
