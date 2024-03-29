@@ -1,12 +1,12 @@
-## Hi there 👋
+# 240401 - .NET
+Welcome to 240401 .NET training! Here you'll find useful information for this training.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Useful Links
+- [Trainer Code](https://github.com/240401-NET/trainer-code): Github repository for all demo's/notes, as well as project specs
+- *Coming Soon* [Teams Meeting Link](): We meet here every workday 10a-6p ET
+- [Revature Pro("RevPro")](https://app.revature.com): Find Recordings, Curriculum, Quizzes and other assessments here
+- *Coming Soon* [TimeSheet](): Please fill them out every Friday
+- [HR Portal](https://help.revature.com/s/): Submit HR ticket via this portal 
+- [Email Juniper](mailto:minseon.song@revature.com)
+- [Email QC](mailto:qc@revature.com)
+- [Email IT](mailto:it@revature.com)
