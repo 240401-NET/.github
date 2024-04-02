@@ -22,8 +22,7 @@ Welcome to 240401 .NET training! Here you'll find useful information for this tr
 - <a href="mailto:it@revature.com" target="_blank" rel="noopener noreferrer">Email IT</a> it@revature.com: For any access issues *feel free to cc me*
 
 ## <a name="projects"></a>Project Specs
-*...Comming Soon!*
-
+- [P0](https://github.com/240401-NET/trainer-code/blob/main/ProjectSpecs/P0.md)
 ## <a name="installs"></a>Software Install Links
 Install the following software by the day listed below.
 ### Week 1 Day 1 (4/1/24)
