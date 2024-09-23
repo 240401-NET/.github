@@ -12,12 +12,12 @@ Welcome to 240401 .NET training! Here you'll find useful information for this tr
 - Trainers: Ulada Haranina(ulada.haranina@revature.com), Kung Lo(kungyang.lo@revature.com)
 
 ## <a name="links"></a>Useful Links
-- <a href="https://github.com/240401-NET/trainer-code" target="_blank" rel="noopener noreferrer">Trainer Code</a>: Github repository for all demo's/notes, as well as project specs
+- <a href="" target="_blank" rel="noopener noreferrer">Trainer Code</a>: Github repository for all demo's/notes, as well as project specs
 - <a href="" target="_blank" rel="noopener noreferrer">Teams Meeting Link</a>: We meet here every workday 10a-6p ET
 - <a href="https://app.revature.com" target="_blank" rel="noopener noreferrer">Revature Pro("RevPro")</a>: Find Recordings, Curriculum, Quizzes and other assessments here
 - *Coming Soon* <a href="" target="_blank" rel="noopener noreferrer">TimeSheets</a>: Please fill them out every Friday
 - <a href="https://help.revature.com/s/" target="_blank" rel="noopener noreferrer">HR Portal</a>: Submit HR ticket via this portal
-- <a href="mailto:minseon.song@revature.com" target="_blank" rel="noopener noreferrer">Email Juniper</a> ulada.haraninina@revature.com: For absences. For training content related questions please bring them up during training or message me on Teams
+- <a href="mailto:minseon.song@revature.com" target="_blank" rel="noopener noreferrer">Email Ulada</a> ulada.haraninina@revature.com: For absences. For training content related questions please bring them up during training or message me on Teams
 - <a href="mailto:qc@revature.com" target="_blank" rel="noopener noreferrer">Email QC</a> qc@revature.com: For any assessment related queries. *feel free to cc me*
 - <a href="mailto:it@revature.com" target="_blank" rel="noopener noreferrer">Email IT</a> it@revature.com: For any access issues *feel free to cc me*
 
