@@ -7,9 +7,9 @@ Welcome to 240401 .NET training! Here you'll find useful information for this tr
 - [Project Specs](#projects)
 - [Software Install Links](#installs)
 ## <a name="general"></a>General Training Information
-- Duration: 4/1/24 - 5/24/24 (8 weeks)
-- Work Hours: M-F 10AM - 6PM, Eastern Time. Lunch 1 - 2PM
-- Trainers: Juniper Song(minseon.song@revature.com), Jonathan De La Cruz(jonathan.delacruz@revature.com)
+- Duration: 4/1/24 - 11/22/2024 (8 weeks)
+- Work Hours: M-F 9AM - 5PM, Eastern Time. Lunch 12 - 1PM
+- Trainers: Ulada Haranina(ulada.haranina@revature.com), Kung Lo(kungyang.lo@revature.com)
 
 ## <a name="links"></a>Useful Links
 - <a href="https://github.com/240401-NET/trainer-code" target="_blank" rel="noopener noreferrer">Trainer Code</a>: Github repository for all demo's/notes, as well as project specs
