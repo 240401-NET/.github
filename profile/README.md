@@ -13,11 +13,11 @@ Welcome to 240401 .NET training! Here you'll find useful information for this tr
 
 ## <a name="links"></a>Useful Links
 - <a href="https://github.com/240401-NET/trainer-code" target="_blank" rel="noopener noreferrer">Trainer Code</a>: Github repository for all demo's/notes, as well as project specs
-- <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWI1OGYxYzgtMzgzZS00YmZkLTk5M2QtOWQwYzUyNzBjMWNk%40thread.v2/0?context=%7b%22Tid%22%3a%226b63e28a-a8f9-47b5-aa40-97e231215164%22%2c%22Oid%22%3a%2257c8173f-96dc-4c74-8a9e-b4bc553ae330%22%7d" target="_blank" rel="noopener noreferrer">Teams Meeting Link</a>: We meet here every workday 10a-6p ET
+- <a href="" target="_blank" rel="noopener noreferrer">Teams Meeting Link</a>: We meet here every workday 10a-6p ET
 - <a href="https://app.revature.com" target="_blank" rel="noopener noreferrer">Revature Pro("RevPro")</a>: Find Recordings, Curriculum, Quizzes and other assessments here
 - *Coming Soon* <a href="" target="_blank" rel="noopener noreferrer">TimeSheets</a>: Please fill them out every Friday
 - <a href="https://help.revature.com/s/" target="_blank" rel="noopener noreferrer">HR Portal</a>: Submit HR ticket via this portal
-- <a href="mailto:minseon.song@revature.com" target="_blank" rel="noopener noreferrer">Email Juniper</a> minseon.song@revature.com: For absences. For training content related questions please bring them up during training or message me on Teams
+- <a href="mailto:minseon.song@revature.com" target="_blank" rel="noopener noreferrer">Email Juniper</a> ulada.haraninina@revature.com: For absences. For training content related questions please bring them up during training or message me on Teams
 - <a href="mailto:qc@revature.com" target="_blank" rel="noopener noreferrer">Email QC</a> qc@revature.com: For any assessment related queries. *feel free to cc me*
 - <a href="mailto:it@revature.com" target="_blank" rel="noopener noreferrer">Email IT</a> it@revature.com: For any access issues *feel free to cc me*
 
